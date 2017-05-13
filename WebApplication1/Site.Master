@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application - [footer change]</p>
+                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application - [footer change][post commit change]</p>
             </footer>
         </div>
 
