@@ -41,4 +41,13 @@
         </div>
     </div>
 
+
+    <button onclick="myFunction()">Click me</button>
+
+<p id="demo">xxx</p>
+
+<script>
+
+</script>
+
 </asp:Content>
